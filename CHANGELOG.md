@@ -2,7 +2,52 @@
 
 
 
-## v0.2.0 (2024-06-13)
+## v0.3.0 (2024-06-14)
+
+### Build
+
+* build: add CI workflow ([`e6b3150`](https://github.com/alfredocarneiro/pycountsac/commit/e6b3150ddb316b8b62bd4c131533e6e4b9a7e202))
+
+### Feature
+
+* feat: 2-try CD Semantic Release ([`15f0931`](https://github.com/alfredocarneiro/pycountsac/commit/15f0931d8526d0f90a10e7c3b62b4caf87314f0d))
+
+* feat: 1-try CD ([`1431d8e`](https://github.com/alfredocarneiro/pycountsac/commit/1431d8eb7682ca6ffa7ebb5a9c3091a528652ee5))
+
+* feat: token novamente ([`5bf7b27`](https://github.com/alfredocarneiro/pycountsac/commit/5bf7b2776309e755da8c95e965950b3e2bdca3c1))
+
+* feat: retirado token codecov ([`3a2ad04`](https://github.com/alfredocarneiro/pycountsac/commit/3a2ad046adc311b34a1b771225cab3cfa1222a13))
+
+* feat: adicionado token codecov ([`b0f52b7`](https://github.com/alfredocarneiro/pycountsac/commit/b0f52b70ed8bf09abd71635aea2f7cb58de1eb20))
+
+* feat: versao codecov para 2 ([`32ea431`](https://github.com/alfredocarneiro/pycountsac/commit/32ea43110a1d7723e36c1d2625fe48faa0b5a733))
+
+* feat: ajuste linha 23 --cov=pycountsac ([`a6a80f1`](https://github.com/alfredocarneiro/pycountsac/commit/a6a80f12c54261109ea9a1953e6bd57d9aa725b0))
+
+* feat: ajuste ci ([`f4af56c`](https://github.com/alfredocarneiro/pycountsac/commit/f4af56c73e0430b00c56348131c6eda1a1697f69))
+
+* feat: ajuste ci ([`0f912d9`](https://github.com/alfredocarneiro/pycountsac/commit/0f912d98addc4215eb2cb6b7337d8a56da3d60a3))
+
+* feat: adicionado poetry lock [--no-update] ([`d55c629`](https://github.com/alfredocarneiro/pycountsac/commit/d55c6291001a2e88c9b8f585232387099432ef87))
+
+* feat: adicionado poetry lock [--no-update] ([`d403b5d`](https://github.com/alfredocarneiro/pycountsac/commit/d403b5d84fd686a53b52f1d2bbecec44a8a4af43))
+
+* feat: novos poetry.lock ([`02df2d1`](https://github.com/alfredocarneiro/pycountsac/commit/02df2d1b939afafae01eabeda230f389b96b9e9e))
+
+* feat: novos ajustes no poetry lock ([`65767a8`](https://github.com/alfredocarneiro/pycountsac/commit/65767a8527698b329c7bc7c89cfbdef0991999e7))
+
+* feat: adicionado poetry lock [--no-update] ([`3780dc4`](https://github.com/alfredocarneiro/pycountsac/commit/3780dc405fd8093da2cd3ffd3c36c7127f163f43))
+
+* feat: novos ajustes ([`175bc97`](https://github.com/alfredocarneiro/pycountsac/commit/175bc9797075f5561afe4b0871acd271d397517b))
+
+* feat: retirado jobs cd para teste de ci ([`e1c476e`](https://github.com/alfredocarneiro/pycountsac/commit/e1c476eba0d463ffc81c19d370f14a7cb4102377))
+
+* feat: alteração versão semantic-release ([`e84d59a`](https://github.com/alfredocarneiro/pycountsac/commit/e84d59ae3eb4dc5c5f77d6724187b7c1d6fe714c))
+
+* feat: add CI/CD workflow ([`b1dd732`](https://github.com/alfredocarneiro/pycountsac/commit/b1dd73234b73df235350c00971e56cc73e966fa9))
+
+
+## v0.2.0 (2024-06-14)
 
 ### Build
 
